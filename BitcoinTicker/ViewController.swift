@@ -96,6 +96,7 @@ class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDele
         } else {
           print("error")
         }
+        
     }
     
     func updateUI(currency : Double) {
